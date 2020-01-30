@@ -1,0 +1,31 @@
+body{
+	background-color: #478bcc;
+}
+form{
+	background-color: #edf0f2;
+	width: 300px;
+	height: 500px;
+	margin: auto;
+	margin-top: 80px;
+	padding: 20px;
+}
+input{
+	width: 100%;
+	padding: 10px 0px;
+	margin:5px 0px;
+}
+a{
+	color: #478bcc;
+}
+
+p{
+	text-align: center;
+	color: white
+}
+
+#submit-button{
+	background-color: green;
+	color: white;
+	width: 100%;
+	padding: 10px 0;
+}
